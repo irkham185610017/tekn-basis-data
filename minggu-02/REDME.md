@@ -38,6 +38,8 @@ storage:
 
 ---
 LISTING LATIHAN 1
-![Gambar 1](Screenshot_1.png) ![Gambar 2](Screenshot_2.png) ![Gambar 3](Screenshot_3.png) ![Gambar 4](Screenshot_4.png) ![Gambar 5](Screenshot_5.png) ![Gambar 6](Screenshot_6.png)
+![Gambar 1](Screenshot_1.png)
+![Gambar 2](Screenshot_2.png)
+![Gambar 3](Screenshot_3.png) ![Gambar 4](Screenshot_4.png) ![Gambar 5](Screenshot_5.png) ![Gambar 6](Screenshot_6.png)
 ![Gambar 7](Screenshot_7.png) ![Gambar 8](Screenshot_8.png) ![Gambar 9](Screenshot_9.png) ![Gambar 10](Screenshot_10.png) ![Gambar 11](Screenshot_11.png) ![Gambar 12](Screenshot_12.png) ![Gambar 13](Screenshot_13.png) ![Gambar 14](Screenshot_14.png) ![Gambar 15](Screenshot_28.png)
 ---
